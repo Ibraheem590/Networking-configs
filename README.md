@@ -30,4 +30,23 @@ You can use these configurations in different networking scenarios, such as:
 
 ## 🚀 How to Use
 1. **Clone this repository**:
-   git clone https://github.com/Ibraheem590/Networking-configs.git
+2. Open Packet Tracer and load basic-configurations.pkt
+3. Apply the configurations manually or via CLI copy-paste.
+
+✨ **Future Plans**
+
+- Add **VLAN** configurations
+- Configure **SSH for secure remote access**
+- Set up **basic firewall rules**
+- Implement **basic routing (static & OSPF)**
+
+📩 **Contributions**
+
+Feel free to **fork** this repository and contribute by adding new configurations or improving documentation!
+
+📌 **Author**
+
+**Ibraheem590**
+📧 Contact: ibrahimmusa590@gmail.com
+🔗 LinkedIn: www.linkedin.com/in/ibrahim-musa-m
+
